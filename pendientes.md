@@ -1,1 +1,0 @@
-se debe terminar de hacer el curriculum vitae
