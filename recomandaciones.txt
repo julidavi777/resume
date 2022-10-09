@@ -1,0 +1,9 @@
+* colocar el curriculum vitae con la misma liena de colores del portafolio 
+* poner tecnologo en vez tnlgo
+* poner el perfil profesional readactado anteriormente en la parte del inicio debajo de Hoja soy julian
+
+
+curriculum vitae 
+
+*quitar dirección 
+*cambiar dimensión de espacio en estudios complemetnarios 
