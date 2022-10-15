@@ -676,6 +676,18 @@ header #menu-btn:hover{
     background-color: var(--red);
     color: var(--white);
 }
+.anchor{
+    color: var(--red);
+    text-decoration: none;
+}
+.anchor:hover{
+    color: var(--white);
+
+}
+.anchor-active{
+    color: var(--white);
+    text-decoration: none;
+}
 
 .portfolio .box-container{
     display: -ms-grid;
@@ -753,7 +765,7 @@ header #menu-btn:hover{
             transition: all 0.4s linear;
 }
 
-.portfolio-item .content .view-btn{
+.portfolio-item .content .view-btn {
     font-size: 2rem;
     color: var(--red);
     transform-origin: top;
@@ -1036,7 +1048,7 @@ header #menu-btn:hover{
     display: flex;
     -webkit-box-align: center;
     -ms-flex-align: center;
-    align-items: center;
+    align-items: right;
 }
 
 .contact-info .info-item .detail .fas,
@@ -1045,13 +1057,13 @@ header #menu-btn:hover{
     color: var(--red);
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;;
+    display: flex;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
     -webkit-box-align: center;
     -ms-flex-align: center;
-    align-items: center;
+    align-items:flex-end;
     font-size: 1.5rem;
 }
 
